@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/banner-dark.png">
-  <img src="../assets/banner-light.png" alt="Oso Labs" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oso-Labs/.github/main/profile/banner-dark.png">
+  <img src="https://raw.githubusercontent.com/Oso-Labs/.github/main/profile/banner-light.png" alt="Oso Labs" width="100%">
 </picture>
 
 **Public experiment lab. Most stunts get a 14–21 day experimental run; the ones that work can keep going.**
